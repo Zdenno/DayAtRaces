@@ -1,0 +1,9 @@
+c:\users\pc\documents\visual studio 2013\Projects\ADayAtRaces\ADayAtRaces\bin\Debug\ADayAtRaces.exe.config
+c:\users\pc\documents\visual studio 2013\Projects\ADayAtRaces\ADayAtRaces\bin\Debug\ADayAtRaces.exe
+c:\users\pc\documents\visual studio 2013\Projects\ADayAtRaces\ADayAtRaces\bin\Debug\ADayAtRaces.pdb
+c:\users\pc\documents\visual studio 2013\Projects\ADayAtRaces\ADayAtRaces\obj\Debug\ADayAtRaces.csprojResolveAssemblyReference.cache
+c:\users\pc\documents\visual studio 2013\Projects\ADayAtRaces\ADayAtRaces\obj\Debug\ADayAtRaces.Form1.resources
+c:\users\pc\documents\visual studio 2013\Projects\ADayAtRaces\ADayAtRaces\obj\Debug\ADayAtRaces.Properties.Resources.resources
+c:\users\pc\documents\visual studio 2013\Projects\ADayAtRaces\ADayAtRaces\obj\Debug\ADayAtRaces.csproj.GenerateResource.Cache
+c:\users\pc\documents\visual studio 2013\Projects\ADayAtRaces\ADayAtRaces\obj\Debug\ADayAtRaces.exe
+c:\users\pc\documents\visual studio 2013\Projects\ADayAtRaces\ADayAtRaces\obj\Debug\ADayAtRaces.pdb
