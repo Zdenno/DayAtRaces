@@ -29,6 +29,7 @@ namespace ADayAtRaces
             radioButtoon.Text = Name + " have $" + Cash;
            
         } 
+        //After each bet create an instance of Bet object
         public bool PlaceABet(int amount, int dogToWin)
         {
             if (Cash >= amount)
